@@ -2,7 +2,7 @@
 ​
 
 ​
-## [Build an elegant login in Swift](https://www.youtube.com/watch?v=0OqTn3MXaEI&feature=youtu.be)
+## [Build an elegant login in Swift](https://www.youtube.com/channel/UCf5_RWfmthql9kRKPw6ZxJg?view_as=subscriber)
 
 ​
 
